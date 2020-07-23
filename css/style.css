@@ -1,0 +1,226 @@
+body{
+  margin: 0;
+  margin-left: 41px;
+  margin-right: 41px;
+  background: #ff214f29;
+}
+h1{
+  text-align: center;
+  margin: 0px;
+  font-family: sans-serif;
+  font-size: 48px;
+  text-shadow: 1px 1px 4px #f1efef;
+}
+p{
+  
+    line-height: 24px;  
+    font-family: lato;
+    word-spacing: 2px;
+}
+
+.logo_nav{
+
+}
+.y{
+   height: fit-content;
+    width: fit-content;
+    padding-top: 20px;
+}
+
+.logo{
+     float: initial;
+     overflow: hidden;
+     margin-top: 22px;
+}
+.ul{
+       list-style: none;
+       display: -webkit-inline-box;
+       font-size: 11px;
+       font-style: normal;
+       font-family: sans-serif;
+       line-height: 2.6;
+       margin: 0;
+       overflow: hidden;
+}
+.search{
+
+     display: block;
+     margin: 22px;
+     background: #232323;
+     padding: 0px 24px;
+     margin-right: -6px;
+     color: #ff214f;
+}
+.home{
+        margin: 22px;
+        background: #232323;
+        padding: 0px 24px;
+        margin-right: -6px;
+        color: #ff214f;
+}
+.pages{
+        margin: 22px;
+        background: #232323;
+        padding: 0px 24px;
+        margin-right: -6px;
+        color: #ff214f;
+}
+.portfolio{
+         margin: 22px;
+        background: #232323;
+        padding: 0px 24px;
+        margin-right: -6px;
+        color: #ff214f;
+    }
+.blog{
+       margin: 22px;
+        background: #232323;
+        padding: 0px 24px;
+        margin-right: -6px;
+        color: #ff214f;
+    }
+.elements{
+       margin: 22px;
+        background: #232323;
+        padding: 0px 24px;
+        margin-right: -6px;
+        color: #ff214f;
+    }
+.features{
+        margin: 22px;
+        background: #232323;
+        padding: 0px 24px;
+        margin-right: -6px;
+        color: #ff214f;
+    }
+.abab{
+       background-image: url(../images/abab.jpg);
+       background-size: cover;
+       height: 100vh;
+       width: 100%;
+       margin-top: 30px;
+       margin-bottom: 30px;
+       background-position: center;
+       display: flex;
+       align-items: center;
+}
+
+.are-you{
+  
+   background: #272505b8;
+   color: #4fd600c4;
+   margin-left: 70px;
+   margin-right: 70px;
+   text-align: justify;
+   height: 165px;
+   padding: 54px;
+   overflow: hidden;
+   padding-top: 41px;
+}
+.botols{
+  background-image: url(../images/botols.jpg);
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-position: center;
+  display: flex;
+  align-items: center;
+}
+.friends{
+  
+    background: #63949cdb;
+    color: #430e08;
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: justify;
+    height: 165px;
+    padding: 54px;
+    overflow: hidden;
+    padding-top: 41px;
+}
+.hands{
+  background-image: url(../images/hands.jpg);
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-position: center;
+  display: flex;
+  align-items: center;
+
+}
+.guyes{
+   background: #0609008c;
+   color: #dee2d5;
+   margin-left: 70px;
+   margin-right: 70px;
+   text-align: justify;
+   height: 165px;
+   padding: 54px;
+   overflow: hidden;
+   padding-top: 41px;
+}
+.hummy{
+    background-image: url(../images/hummy.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+.life{
+     background: #01000261;
+     color: whitesmoke;
+     margin-left: 70px;
+     margin-right: 70px;
+     text-align: justify;
+     height: 165px;
+     padding: 54px;
+     overflow: hidden;
+     padding-top: 41px;
+}
+.part{
+    background-image: url(../images/part.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+.what{
+     background: #fd8b1c73;
+     color: #000000;
+     margin-left: 70px;
+     margin-right: 70px;
+     text-align: justify;
+     height: 165px;
+     padding: 54px;
+     overflow: hidden;
+     padding-top: 41px;
+}
+footer{
+
+   background: #232323a1;
+   color: #df3155;
+   padding: 18px;
+   margin-bottom: 50px;
+   text-align: center;
+}
+h5{  
+    text-shadow: 1px 1px 4px #f1efef;
+}
+.ftimg{
+   float: left;
+   display: block;
+   padding-top: 10px;
+   
+}
